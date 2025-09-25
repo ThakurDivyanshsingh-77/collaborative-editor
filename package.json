@@ -1,0 +1,11 @@
+{
+  "name": "collaborative-editor",
+  "version": "1.0.0",
+  "description": "A collaborative code editor with version control",
+  "scripts": {
+    "test": "cd backend && npm test && cd ../frontend && CI=true npm test"
+  },
+  "keywords": ["collaborative", "editor", "version-control"],
+  "author": "",
+  "license": "ISC"
+}
